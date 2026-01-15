@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 
-  <h1>Hi there, I'm [Your Name]!</h1>
+  <h1>Hi there, I'm Aman Kumar!</h1>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
 </div>
 
@@ -13,7 +13,7 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/-Hire%20Me-success?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hire Me"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/kumaraman04/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -31,7 +31,6 @@ I am a pre-final year student with a deep passion for building **scalable web ap
 ---
 
 ### 🛠️ Tech Stack
-*Recruiters scan this first. Keep it clean.*
 
 | **Category** | **Technologies** |
 | :--- | :--- |
