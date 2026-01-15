@@ -45,8 +45,8 @@ I am a pre-final year student with a deep passion for building **scalable web ap
 *These dynamic graphs automatically update to show you are active.*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amangithub01 &show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangithub01 &layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 ---
