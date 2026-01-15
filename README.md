@@ -51,12 +51,3 @@ I am a pre-final year student with a deep passion for building **scalable web ap
 
 ---
 
-### 📂 Top Projects
-
-**1. [Project Name]**
-> A web app that solves [Problem]. Built with React and Node.js.
-> * [Live Demo](#) • [Source Code](#)
-
-**2. [Project Name]**
-> An experimental tool exploring [New Field/Tech].
-> * [Live Demo](#) • [Source Code](#)
