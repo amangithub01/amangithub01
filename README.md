@@ -39,7 +39,7 @@ I am a pre-final year student with a deep passion for building **scalable web ap
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) |
 
----
+--- 
 
 ### 📊 GitHub Stats
 *These dynamic graphs automatically update to show you are active.*
