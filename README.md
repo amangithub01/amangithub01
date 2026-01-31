@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 
   <h1>Hi there, I'm Aman Kumar!</h1>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
-</div>
+</div> 
 
 <div align="center">
   <h3>🚀 Web Developer | 🎓 CS Student | 🌏 Tech Explorer</h3>
