@@ -6,13 +6,13 @@
 
 I enjoy turning ideas into practical products—from interactive web experiences to AI-powered tools.
 
-[Portfolio](https://amangithub01.github.io/My-Portfolia/) · [LinkedIn](https://www.linkedin.com/in/kumaraman04/)
+[Portfolio](https://amangithub01.github.io/My-Portfolia/) · [LinkedIn](https://www.linkedin.com/in/kumaraman04/) · [Email](mailto:amanshaw1004@gmail.com)
 
 </div>
 
 ---
 
-## Featured projects
+## 🚀 Featured projects
 
 | Project | What it is |
 | --- | --- |
@@ -21,13 +21,13 @@ I enjoy turning ideas into practical products—from interactive web experiences
 | [AI Cashflow](https://github.com/amangithub01/Ai-Cashflow) | Cash-flow dashboard with transaction tracking and AI-powered insights. |
 | [My Portfolio](https://github.com/amangithub01/My-Portfolia) | Personal portfolio and project showcase. |
 
-## What I work with
+## 🧰 What I work with
 
 **Web:** JavaScript, TypeScript, React, Next.js, Node.js  
 **AI and data:** Python, FastAPI, LangGraph, SQLite  
 **Tools:** Git, Tailwind CSS, Ollama
 
-## GitHub
+## 📈 GitHub at a glance
 
 <div align="center">
 
@@ -36,8 +36,18 @@ I enjoy turning ideas into practical products—from interactive web experiences
 
 </div>
 
+## 🐍 Contribution activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amangithub01/amangithub01/output/github-contribution-grid-snake.svg" alt="Animated contribution grid snake" />
+
+</div>
+
 ---
 
 <div align="center">
-Thanks for stopping by. Feel free to explore my repositories or connect on <a href="https://www.linkedin.com/in/kumaraman04/">LinkedIn</a>.
+
+Thanks for stopping by. Feel free to explore my repositories or connect with me.
+
 </div>
