@@ -1,53 +1,43 @@
-# amangithub01
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/> 
-  <h1>Hi there, I'm Aman Kumar!</h1>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
-</div> 
 
-<div align="center">
-  <h3>🚀 Web Developer | 🎓 CS Student | 🌏 Tech Explorer</h3>
-  <br/>
-  
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Hire%20Me-success?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hire Me"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kumaraman04/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+# Hey, I'm Aman Kumar 👋
+
+### Developer building useful web apps and exploring AI
+
+I enjoy turning ideas into practical products—from interactive web experiences to AI-powered tools.
+
+[Portfolio](https://amangithub01.github.io/My-Portfolia/) · [LinkedIn](https://www.linkedin.com/in/kumaraman04/)
+
 </div>
 
 ---
 
-### 🧐 About Me
-I am a pre-final year student with a deep passion for building **scalable web applications**. While my core strength lies in Web Development, I am an "Engineer at Heart"—constantly exploring adjacent fields like **[mention the other field, e.g., AI/ML, Cloud, or Blockchain]**.
+## Featured projects
 
-* 🔭 **Currently working on:** A [Briefly describe your coolest project]
-* 🌱 **Currently learning:** Advanced Backend Patterns & [New Field Skill]
-* 🎯 **Goal:** Securing a challenging **Internship** where I can contribute and grow.
-* ⚡ **Fun fact:** I can center a `div` on the first try (sometimes).
+| Project | What it is |
+| --- | --- |
+| [AI Travel Planner](https://github.com/amangithub01/AI-Travel-Planner) | Multi-agent travel planning with LangGraph, FastAPI, Next.js, and a local Ollama model. |
+| [Curo](https://github.com/amangithub01/Curo) | Healthcare platform concept combining appointments, reminders, health records, and AI-assisted features. |
+| [AI Cashflow](https://github.com/amangithub01/Ai-Cashflow) | Cash-flow dashboard with transaction tracking and AI-powered insights. |
+| [My Portfolio](https://github.com/amangithub01/My-Portfolia) | Personal portfolio and project showcase. |
 
----
+## What I work with
 
-### 🛠️ Tech Stack
+**Web:** JavaScript, TypeScript, React, Next.js, Node.js  
+**AI and data:** Python, FastAPI, LangGraph, SQLite  
+**Tools:** Git, Tailwind CSS, Ollama
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-black?style=flat-square&logo=html5) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) |
-
---- 
-
-### 📊 GitHub Stats
-*These dynamic graphs automatically update to show you are active.*
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangithub01 &show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangithub01 &layout=compact&theme=radical" height="150" alt="languages graph" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=amangithub01&show_icons=true&hide_title=true&theme=transparent" alt="Aman's GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangithub01&layout=compact&theme=transparent" alt="Most used languages" />
+
 </div>
 
 ---
 
+<div align="center">
+Thanks for stopping by. Feel free to explore my repositories or connect on <a href="https://www.linkedin.com/in/kumaraman04/">LinkedIn</a>.
+</div>
